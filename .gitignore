@@ -1,0 +1,6 @@
+.idea/
+env/
+venv/
+dj-env/
+dummy.123
+*.123
